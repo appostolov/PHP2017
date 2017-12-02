@@ -1,10 +1,37 @@
-PHP2017 project is a PHP framework for creating back end for Web applications.
+title: PHP2017
+author: Petar Apostolov
+organization: appostolov
+email: appostolov@gmail.com
+license: MIT License -> see LICENSE.md
+description:
 
-Authors:
-Petar Apostolov - appostolov@gmail.com
+    Hello! My name is Petar Apostolov, creator of PHP2017 software.
 
-License:
-This project is licensed under the MIT License - see the LICENSE.md file for details
+    I will try to explain you what I think is special in this product,
+    because any way it is just an other back end framework for web applications, written in PHP.
 
-Deployment: 
-This repository purpose is to share the code of the application. The shared package alone is not enough for production. If you need more information, contact the author.
+    Config, Root, feature permissions, Page configuration and classes, etc.
+
+    Config:
+    This static class handles dynamic control over associative arrays. It can get and set in depth.
+    core/STATIC/CONFIG.class.php
+    core/Root/Root.class.php
+    ...
+
+    Root:
+    This class is parent of all feature handlers. It provides data core through Config.
+    permission/
+    feature/
+    user/
+    track/
+    ...
+
+    Page:
+    core/Page/
+    ...
+
+    For more info: appostolov@gmail.com
+
+    Thank you for your time!
+
+    Petar Apostolov
