@@ -1,0 +1,4 @@
+[31-Aug-2016 11:22:18 America/Chicago] PHP Fatal error:  Call to undefined method Validation::result() in /home/tool4ecom/public_html/OOP/PHP/core/Validation/Validation.class.php on line 404
+[31-Aug-2016 11:35:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/tool4ecom/public_html/OOP/PHP/core/Validation/Validation.class.php on line 132
+[31-Aug-2016 11:36:45 America/Chicago] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tool4ecom/public_html/OOP/PHP/core/Validation/Validation.class.php on line 149
+[31-Aug-2016 11:36:45 America/Chicago] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/tool4ecom/public_html/OOP/PHP/core/Validation/Validation.class.php on line 149
