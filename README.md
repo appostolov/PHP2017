@@ -1,4 +1,3 @@
-#PHP2017
 PHP2017 project is a PHP framework for creating back end for Web applications.
 
 Authors:
